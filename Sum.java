@@ -4,6 +4,6 @@ public class Sum{
 		int n2 = 20;
 		int sum = 0;
 		sum = n1+n2;
-		System.out.println(sum);
+		System.out.println("Sum is : "+sum);
 	}
 }
